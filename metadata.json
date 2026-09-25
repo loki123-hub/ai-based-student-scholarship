@@ -1,0 +1,6 @@
+{
+  "name": "AI_Based_Student_Scholarship_and_Career_Guidance",
+  "description": "AI_Based_Student_Scholarship_and_Career_Guidance - Intelligent scholarship recommendation and personalized career roadmap system powered by PostgreSQL.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
